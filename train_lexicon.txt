@@ -1,0 +1,98 @@
+x x |
+i i |
+sixty s i x t y |
+one o n e |
+g g |
+two t w o |
+eighty e i g h t y |
+nine n i n e |
+yes y e s |
+r r |
+e e |
+w w |
+y y |
+eight e i g h t |
+five f i v e |
+six s i x |
+no n o |
+erase e r a s e |
+h h |
+zero z e r o |
+four f o u r |
+start s t a r t |
+enter e n t e r |
+t t |
+v v |
+a a |
+fifty f i f t y |
+three t h r e e |
+forty f o r t y |
+b b |
+q q |
+thirty t h i r t y |
+p p |
+u u |
+f f |
+z z |
+o o |
+rubout r u b o u t |
+n n |
+seven s e v e n |
+l l |
+k k |
+m m |
+j j |
+help h e l p |
+fifteen f i f t e e n |
+repeat r e p e a t |
+d d |
+seventy s e v e n t y |
+oh o h |
+go g o |
+stop s t o p |
+s s |
+twenty t w e n t y |
+seventeen s e v e n t e e n |
+ninety n i n e t y |
+ten t e n |
+c c |
+fourteen f o u r t e e n |
+thousand t h o u s a n d |
+twelve t w e l v e |
+hundred h u n d r e d |
+and a n d |
+half h a l f |
+eleven e l e v e n |
+fifth f i f t h |
+apostrophe a p o s t r o p h e |
+area a r e a |
+code c o d e |
+march m a r c h |
+third t h i r d |
+nineteen n i n e t e e n |
+june j u n e |
+eleventh e l e v e n t h |
+september s e p t e m b e r |
+fifteenth f i f t e e n t h |
+may m a y |
+first f i r s t |
+october o c t o b e r |
+january j a n u a r y |
+sixteen s i x t e e n |
+december d e c e m b e r |
+eighteenth e i g h t e e n t h |
+july j u l y |
+thirtieth t h i r t i e t h |
+twelfth t w e l f t h |
+seventh s e v e n t h |
+of o f |
+august a u g u s t |
+sixteenth s i x t e e n t h |
+second s e c o n d |
+february f e b r u a r y |
+eighth e i g h t h |
+ninth n i n t h |
+sixth s i x t h |
+eighteen e i g h t e e n |
+april a p r i l |
+fourth f o u r t h |
