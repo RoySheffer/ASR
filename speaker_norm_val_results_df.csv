@@ -1,0 +1,7 @@
+,val_wer,val_cer
+"(k=1,features=MFCC,dist=dtw,preprocess=speaker_normalization)",0.877165670586723,0.8010676235001729
+"(k=3,features=MFCC,dist=dtw,preprocess=speaker_normalization)",0.8365516354990037,0.7718886513919325
+"(k=5,features=MFCC,dist=dtw,preprocess=speaker_normalization)",0.8164555619818775,0.7671300083368868
+"(k=11,features=MFCC,dist=dtw,preprocess=speaker_normalization)",0.819827131932395,0.7521145393363194
+"(k=15,features=MFCC,dist=dtw,preprocess=speaker_normalization)",0.8213093631514681,0.7214280012993262
+"(k=21,features=MFCC,dist=dtw,preprocess=speaker_normalization)",0.8308791208791206,0.7373391584085874

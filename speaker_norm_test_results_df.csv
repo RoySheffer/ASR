@@ -1,0 +1,7 @@
+,test_wer,test_cer
+"(k=1,features=MFCC,dist=dtw,preprocess=speaker_normalization)",0.8554605330566867,0.7292515175678371
+"(k=3,features=MFCC,dist=dtw,preprocess=speaker_normalization)",0.823163524509678,0.7012280396871372
+"(k=5,features=MFCC,dist=dtw,preprocess=speaker_normalization)",0.8001592744861975,0.6624063635620283
+"(k=11,features=MFCC,dist=dtw,preprocess=speaker_normalization)",0.7599977693246928,0.6242808280977645
+"(k=15,features=MFCC,dist=dtw,preprocess=speaker_normalization)",0.7527821537436923,0.6188347889614529
+"(k=21,features=MFCC,dist=dtw,preprocess=speaker_normalization)",0.7440062074677463,0.6190584566275763
